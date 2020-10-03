@@ -8,7 +8,7 @@ Run Buddy, a service that lets runners sign up for personal training.  Uses HTML
 -[installation](#installation)
 -[usage](#usage)
 -[license](#license)
--[contribution](#contribution)
+-[built](#built)
 -[test](#test)
 -[username](#username)
 -[profile](#profile)
@@ -24,11 +24,12 @@ Run Buddy, a service that lets runners sign up for personal training.  Uses HTML
 -Build a webpage for Run Buddy, a service that matches runners with personal trainers. 
 -Run Buddy is launching a new landing page to attract more sign-ups.
 -Your job is to make the Run Buddy landing page look good and then hand it off to Run Buddy's internal developers to complete the data collection portion.
+-Add mobile-responsiveness
 
 
 ##Installation:
-   
-   
+ -Interact with GitHub 
+ -View in Chrome Browser
 
 ##usage:
     research 
@@ -36,8 +37,9 @@ Run Buddy, a service that lets runners sign up for personal training.  Uses HTML
 ##license:
     MIT 
 
-##contribution:
-    https://www.w3schools.com/, TA open office hours 
+##built with:
+    *CSS
+    *HTML
 
 ##test:
   -Google Chrome is the primary web browser you'll use to test and debug 
